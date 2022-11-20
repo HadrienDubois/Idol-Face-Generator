@@ -1,0 +1,9 @@
+gdown==4.5.3
+jax==0.3.10
+jaxlib==0.3.10+cuda11.cudnn805
+torch==1.9.0+cu111
+torchvision==0.10.0+cu111
+ftfy==6.1.1
+ninja==1.10.2
+opensimplex==0.4.2
+timm==0.4.12

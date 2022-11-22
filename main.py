@@ -1,3 +1,9 @@
+#To run on google colab, uncomment the part below
+
+#!nvidia-smi -L                  #check the GPU available on the execution environment
+#from google.colab import drive  
+#drive.mount('/content/drive')   #connect to your personnal drive
+
 import os
 !pip install gdown --upgrade
 
